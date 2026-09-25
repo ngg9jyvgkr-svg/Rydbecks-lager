@@ -1,3 +1,10 @@
-# Rydbecks EL Lager v1.1
+# Rydbecks EL Lager v1.2
 
-Mobil lagerapp med lokal lagring, historik, låglagervarning och streckkodsskanning via kameran.
+Mobil lagerapp med lokal lagring.
+
+## Nytt i v1.2
+- Egen appikon
+- Snabbknappar −1 / +1 på varje artikel
+- Backup till JSON-fil
+- Återställning från backup
+- Fortsatt stöd för streckkodsskanning, sökning, lågt saldo och historik
